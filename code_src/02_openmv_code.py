@@ -1,5 +1,5 @@
 # 241014 同步到git仓库
-# openmv
+# Title:openmv module
 #导入函数库
 import sensor, image, time, math ,lcd
 from pyb import Servo,UART,Timer   #用于控制舵机
